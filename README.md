@@ -9,4 +9,5 @@ g++ -o 3D 3D.cpp  -lsfml-graphics -lsfml-window -lsfml-system -lGL -lGLU
 ```
 ### Web Implementation 
 
-https://jorgerando.github.io/Life-Particle-2D-and-3D-/
+play with the project [HERE](https://jorgerando.github.io/Life-Particle-2D-and-3D-/)
+
